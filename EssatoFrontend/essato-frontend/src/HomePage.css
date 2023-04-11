@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    border-bottom: 1px solid;
+}
+nav a{
+    margin-left: 1em;
+}
+ul{
+    list-style:  none;
+    width: 30vw;
+}
+li{
+    border: 1px solid #ffdbdb;
+    margin-top:2px;
+    padding: 5px;
+}
