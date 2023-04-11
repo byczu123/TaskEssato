@@ -1,6 +1,7 @@
 # TaskEssato
 ## Start Reacta
-W folderze ..\Task\EssatoFrontend\essato-frontend należy wpisać komendę **npm start**.
+W folderze ..\Task\EssatoFrontend\essato-frontend należy wpisać komendę **npm install** aby zaciągnąć potrzebne moduły.  
+Następnie **npm start** aby uruchomić Reacta.
 
 ## Start Springa
 W folderze ..\Task\EssatoBackend należy wpisać komendę **mvn clean install**.  
